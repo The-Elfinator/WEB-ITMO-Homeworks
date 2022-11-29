@@ -1,0 +1,19 @@
+main article .title {
+    font-size: 1.25rem;
+    color: #3B5998;
+    font-weight: bold;
+    margin-bottom: 0.25rem;
+}
+
+main article .information {
+    font-size: 0.8rem;
+    margin-bottom: 0.5rem;
+    color: grey;
+}
+
+main article .body {
+    font-size: 0.9rem;
+    border-left: 0.25rem solid lightgrey;
+    padding-left: 0.5rem;
+    margin-bottom: 1rem;
+}
